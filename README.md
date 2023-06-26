@@ -1,2 +1,1 @@
-# Traffic Lights Detection
- 
+YOLOv8-based traffic light tracking and prediction for images, videos, and livestreams.
