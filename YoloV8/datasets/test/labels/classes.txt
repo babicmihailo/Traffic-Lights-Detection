@@ -1,0 +1,7 @@
+vozila crveno
+vozila zuto
+vozila zuto-crveno
+vozila zeleno
+vozila uslovno
+pesacki crveno
+pesacki zeleno

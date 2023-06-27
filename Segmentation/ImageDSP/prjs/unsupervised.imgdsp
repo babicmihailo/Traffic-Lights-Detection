@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE imgdsp>
+<imgdsp>
+    <programs>
+        <program name="Intensity kMeans">
+            <params>
+              <param name="Cluster Num (K)" min="1" current="2" max="16"/>
+            </params>
+        </program>
+        <program name="Color kMeans">
+            <params>
+              <param name="Cluster Num (K)" min="1" current="2" max="16"/>
+            </params>
+        </program>
+        <program name="Intensity+Position kMeans">
+            <params>
+              <param name="Cluster Num (K)" min="1" current="2" max="16"/>
+            </params>
+        </program>
+        <program name="Histogram kMeans">
+            <params>
+              <param name="Cluster Num (K)" min="1" current="2" max="16"/>
+              <param name="Block size (NxN)" min="2" current="8" max="32"/>
+            </params>
+        </program>
+        <program name="SIFT kMeans">
+            <params>
+              <param name="Cluster Num (K)" min="1" current="2" max="16"/>
+              <param name="Block size (NxN)" min="2" current="8" max="32"/>
+            </params>
+        </program>
+    </programs>
+    <in_imgs>
+	<in_img file_name="IMG#151.jpeg"/>
+	<in_img file_name="IMG#152.jpeg"/>
+	<in_img file_name="IMG#153.jpeg"/>
+	<in_img file_name="IMG#154.jpeg"/>
+	<in_img file_name="IMG#155.jpeg"/>
+	<in_img file_name="IMG#156.jpeg"/>
+	<in_img file_name="IMG#157.jpeg"/>
+	<in_img file_name="IMG#158.jpeg"/>
+	<in_img file_name="IMG#159.jpeg"/>
+	<in_img file_name="IMG#160.jpeg"/>
+	<in_img file_name="IMG#161.jpeg"/>
+	<in_img file_name="IMG#162.jpeg"/>
+	<in_img file_name="IMG#163.jpeg"/>
+	<in_img file_name="IMG#164.jpeg"/>
+	<in_img file_name="IMG#165.jpeg"/>
+	<in_img file_name="IMG#166.jpeg"/>
+	<in_img file_name="IMG#167.jpeg"/>
+	<in_img file_name="IMG#168.jpeg"/>
+	<in_img file_name="IMG#169.jpeg"/>
+	<in_img file_name="IMG#170.jpeg"/>
+	<in_img file_name="IMG#171.jpeg"/>
+	<in_img file_name="IMG#172.jpeg"/>
+	<in_img file_name="IMG#173.jpeg"/>
+	<in_img file_name="IMG#174.jpeg"/>
+	<in_img file_name="IMG#175.jpeg"/>
+	<in_img file_name="IMG#176.jpeg"/>
+	<in_img file_name="IMG#177.jpeg"/>
+	<in_img file_name="IMG#178.jpeg"/>
+	<in_img file_name="IMG#179.jpeg"/>
+	<in_img file_name="IMG#180.jpeg"/>
+	<in_img file_name="IMG#181.jpeg"/>
+	<in_img file_name="IMG#182.jpeg"/>
+	<in_img file_name="IMG#183.jpeg"/>
+	<in_img file_name="IMG#184.jpeg"/>
+	<in_img file_name="IMG#185.jpeg"/>
+	<in_img file_name="IMG#186.jpeg"/>
+	<in_img file_name="IMG#187.jpeg"/>
+	<in_img file_name="IMG#188.jpeg"/>
+	<in_img file_name="IMG#189.jpeg"/>
+	<in_img file_name="IMG#190.jpeg"/>
+	<in_img file_name="IMG#191.jpeg"/>
+	<in_img file_name="IMG#192.jpeg"/>
+	<in_img file_name="IMG#193.jpeg"/>
+	<in_img file_name="IMG#194.jpeg"/>
+	<in_img file_name="IMG#195.jpeg"/>
+	<in_img file_name="IMG#196.jpeg"/>
+	<in_img file_name="IMG#197.jpeg"/>
+	<in_img file_name="IMG#198.jpeg"/>
+	<in_img file_name="IMG#199.jpeg"/>
+	<in_img file_name="IMG#200.jpeg"/>
+    </in_imgs>
+    <out_imgs>
+        <out_img file_name="processed_img.bmp"/>
+    </out_imgs>
+</imgdsp>
+
+
+
+
+
+
+
