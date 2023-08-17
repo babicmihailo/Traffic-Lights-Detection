@@ -1,6 +1,6 @@
 # YOLOv8 Traffic Light Tracking and Prediction
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 
 Welcome to the YOLOv8 Traffic Light Tracking and Prediction project! This project is built upon the YOLOv8 object detection framework and focuses on detecting, tracking, and predicting traffic lights in images, videos, and live streams. Additionally, the dataset is enhanced through image augmentations in C++ to increase detection reliability and performance.
 
